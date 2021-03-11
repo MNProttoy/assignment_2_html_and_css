@@ -1,0 +1,42 @@
+h1 {
+     color: crimson;
+}  
+.head1{
+	 background-color: black;
+}
+.red{
+	border-width: 5px ;
+    border-style: dashed;
+    border-color: red;
+}
+.red{
+	border:5x solid red;
+}
+#heading1{
+	font-size: 60px;
+}
+
+.box{
+	width: 200px;
+    height: 100px;
+    background-color: purple;
+}
+
+.jet{
+	  width:30%;
+	  height:200px;
+	  background-color: #000000;
+}
+
+.delta{
+	   width:50pt;
+	   height:100px;
+	   background-color: rgb(76,42,51);
+}
+
+.alpha{
+	  width: 60em;
+	  height: 150px;
+	  background-color: rgba(31,45,60, .5);
+}
+/*this is css code comment*/
